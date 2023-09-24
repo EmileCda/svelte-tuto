@@ -22,3 +22,4 @@ echo "# svelte-tuto" >> README.md
 && git remote add origin https://github.com/podspods/svelte-tuto.git
 &&git push -u origin main
 ````
+# svelte-tuto
